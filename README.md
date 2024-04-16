@@ -9,6 +9,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-
-[![Mahdi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MHaidary786)
-[![Mahdi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/MHaidary786)
